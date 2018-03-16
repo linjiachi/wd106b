@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>個人履歷表</title>
+</head>
+<body>
+    <h1>個人履歷表</h1>
+    <table border="1">
+        <tr>
+            <td>姓名</td>
+            <td>林家齊</td>
+        </tr>
+        <tr>
+            <td>目前系所</td>
+            <td>資訊工程</td>
+        </tr>
+        <tr>
+            <td>學號</td>
+            <td>110610540</td>
+        </tr>
+    </table>
+</body>
+</html>
