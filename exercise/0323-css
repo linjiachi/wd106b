@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>個人履歷表</title>
+<style>
+table,th,td
+{
+    border:1px solid black;
+}
+</style>
+</head>
+
+<body>
+    <img src="http://imaghoes.gamme.com.tw/news2/2013/74/92/p6CTnaCal5_W.jpg" alt="Pulpit rock" width="200" height="198">    
+    <h4>林家齊的履歷表</h4>
+    <table>
+        <tr><th>欄位</th><th>內容</th></tr>
+        <tr>
+            <td>職務</td>
+            <td>金門大學資訊工程學系學生</td>
+        </tr>
+        <tr>
+            <td>學號</td>
+            <td>110610540</td> 
+        <tr>
+            <td>Instagram</td>
+            <td><a href="https://www.instagram.com/linchi_1127/?hl=zh-tw">Linchi</a></td>    
+        </tr>
+    </table>
+</body>
+</html>
