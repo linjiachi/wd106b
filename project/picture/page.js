@@ -17,7 +17,7 @@ table, th, td {
     text-align: center;
 }
 td {
-    padding: 15px;
+    padding: 10px;
     font-family:'微軟正黑體';
 }
 th {
