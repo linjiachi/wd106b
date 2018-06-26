@@ -43,11 +43,6 @@ _book
 # big file
 *.zip
 
-# image file
-*.jpg
-*.png
-*.bmp
-*.gif
 
 csharp
 csharpPhone
