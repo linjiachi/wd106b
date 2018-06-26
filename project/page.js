@@ -2,8 +2,8 @@ const page = {}
 
 //主頁
 page.home =`
-<h1 style="text-align: center;font-family:courier;" >Welcome to Linchi's Blog</h1>
-
+<h1 style="text-align: center;font-family:courier;font-size: 50px;position: absolute;left: 430px;top: 130px;">Welcome to Linchi's Blog</h1>
+<img src="醜比頭3.jpg" width="693" height="352" style="position: absolute;left: 430px;top: 265px;">
 `
 //使用者
 page.user = `
