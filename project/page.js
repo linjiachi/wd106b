@@ -3,13 +3,13 @@ const page = {}
 //主頁
 page.home =`
 <h1 style="text-align: center;font-family:courier;font-size: 50px;position: absolute;left: 430px;top: 130px;">Welcome to Linchi's Blog</h1>
-<img src="醜比頭3.jpg" width="693" height="352" style="position: absolute;left: 430px;top: 265px;">
+<img src="3.jpg" width="693" height="352" style="position: absolute;left: 430px;top: 265px;">
 `
 //使用者
 page.user = `
 <h2 style="text-align: center;font-family:courier">This is an information about me.</h2>
-<img src="醜比頭.png" width="311" height="308" style="position: absolute;left: 1205px;top: 440px;">
-<img src="醜比頭2.jpg" width="400" height="350" style="position: absolute;left: 5px;top: 410px;">
+<img src="1.png" width="311" height="308" style="position: absolute;left: 1205px;top: 440px;">
+<img src="2.jpg" width="400" height="350" style="position: absolute;left: 5px;top: 410px;">
 <style>
 table, th, td {
     border: 3px solid black;
@@ -37,7 +37,7 @@ table#t01 {
 <caption style="font-family:'微軟正黑體'">目前就讀金門大學 資訊工程學系</caption>
   <tr>
     <th colspan="2">
-    <img src="1453301839485.jpg" width="200" height="250"></th>
+    <img src="me.jpg" width="200" height="250"></th>
   </tr>
   <tr>
     <td>Name</td>
@@ -83,7 +83,7 @@ page.elementary = `
 <h1 style="text-align: center;font-family:'微軟正黑體'">高雄市苓雅區福東國小</h1>
 <a class="x" style="left: 570px;top: 100px;"
 href="http://school.kh.edu.tw/index.html?WebID=19">(http://school.kh.edu.tw/index.html?WebID=19)</a>
-<img src="校徽.gif" width="300" height="300" style="position: absolute;left: 610px;top: 190px;" >
+<img src="fudon.gif" width="300" height="300" style="position: absolute;left: 610px;top: 190px;" >
 <p style="position: absolute;left: 100px;top: 110px;">學校簡介:
 <br>民國64年2月1日，設立福東國民小學，首任校長毛宗垣先生，班級數31班；
 <br>民國97年8月，成立一般能力資優班；民國101年8月，熊治剛獲遴選為福東
@@ -98,7 +98,7 @@ page.junior = `
 <h1 style="text-align: center;font-family:'微軟正黑體'">高雄市立五福國民中學</h1>
 <a class="x" style="left: 640px;top: 100px;"
 href="http://www.wfjh.kh.edu.tw/">(http://www.wfjh.kh.edu.tw/)</a>
-<img src="wufulogo.png" width="300" height="300" style="position: absolute;left: 610px;top: 200px;" >
+<img src="wufu.png" width="300" height="300" style="position: absolute;left: 610px;top: 200px;" >
 <p style="position: absolute;left: 100px;top: 110px;">學校簡介:
 <br>高雄市立五福國民中學，簡稱五福國中，是高雄市一所國民中學，創立於
 <br>1966年3月21日，當時建立了高雄市最後一所初中-高雄市立第十二初級
@@ -112,7 +112,7 @@ page.senior = `
 <h1 style="text-align: center;font-family:'微軟正黑體'">高雄市立前鎮高級中學</h1>
 <a class="x" style="left: 640px;top: 100px;"
 href="http://www.cjhs.kh.edu.tw/">(http://www.cjhs.kh.edu.tw/)</a>
-<img src="ccshmark.gif" width="350" height="350" style="position: absolute;left: 580px;top: 180px;" >
+<img src="cjhs.gif" width="350" height="350" style="position: absolute;left: 580px;top: 180px;" >
 <p style="position: absolute;left: 100px;top: 110px;">學校簡介:
 <br>高雄市立前鎮高級中學，是一所位於高雄市前鎮區的高級中學。1969年，
 <br>為解決高雄市人口激增的問題，委請當時高雄中學校長王家驥先生開始籌
@@ -128,7 +128,7 @@ page.college = `
 <h1 style="text-align: center;font-family:'微軟正黑體'">金門縣金寧鄉國立金門大學</h1>
 <a class="x" style="left: 580px;top: 100px;"
 href="https://www.nqu.edu.tw/cht/index.php?">(https://www.nqu.edu.tw/cht/index.php?)</a>
-<img src="slide0004_image012.gif" width="300" height="300" style="position: absolute;left: 600px;top: 200px;" >
+<img src="nqu.gif" width="300" height="300" style="position: absolute;left: 600px;top: 200px;" >
 <p style="position: absolute;left: 100px;top: 110px;">學校簡介:
 <br>國立金門大學，簡稱金門大學、金大，是中華民國福建省金門縣的一所國
 <br>立大學。前身是1997年國立高雄科學技術學院附設專科部金門分部。校本
@@ -144,8 +144,8 @@ src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14528.304298190189!2d1
 // 大一上
 page.grade = `
 <h1 style="text-align: center;font-family:'微軟正黑體'">.. 一年級 上學期 ..</h1>
-<img src="醜比頭6.jpg" width="311" height="308" style="position: absolute;left: 10px;top: 550px;">
-<img src="醜比頭8.jpg" width="278" height="411" style="position: absolute;left: 1205px;top: 440px;">
+<img src="6.jpg" width="311" height="308" style="position: absolute;left: 10px;top: 550px;">
+<img src="8.jpg" width="278" height="411" style="position: absolute;left: 1205px;top: 440px;">
 
 <style>
 table, th, td {
@@ -246,8 +246,8 @@ table#t01 {
 // 大一下
 page.grade1 = `
 <h1 style="text-align: center;font-family:'微軟正黑體'">.. 一年級 下學期 ..</h1>
-<img src="醜比頭5.jpg" width="311" height="308" style="position: absolute;left: 1205px;top: 550px;">
-<img src="醜比頭4.jpg" width="281" height="203" style="position: absolute;left: 10px;top: 540px;">
+<img src="4.jpg" width="281" height="203" style="position: absolute;left: 10px;top: 540px;">
+<img src="5.jpg" width="311" height="308" style="position: absolute;left: 1205px;top: 550px;">
 
 <style>
 table, th, td {
